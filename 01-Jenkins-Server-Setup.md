@@ -50,3 +50,4 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 	   
 ## Step-8 : Create Admin Account & Install Required Plugins in Jenkins ##
+

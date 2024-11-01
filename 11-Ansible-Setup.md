@@ -100,3 +100,4 @@ sudo vi /etc/ansible/hosts
 ```
 ansible all -m ping
 ```
+

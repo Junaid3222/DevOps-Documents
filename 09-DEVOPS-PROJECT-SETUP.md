@@ -103,3 +103,4 @@ sh 'scp -o StrictHostKeyChecking=no target/01-maven-web-app.war ec2-user@15.207.
   }
 }
 ```
+
